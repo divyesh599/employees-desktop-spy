@@ -1,7 +1,4 @@
 # employees-desktop-spy
-During the company's business at the time of business, this precious way of protecting your company, such as employee surfing on social media sites or leaking sensitive company information, can waste their company's precious time.
--------------------------------------------------------------------------------------------------
-
 Overview:
 
 Your business has employees working out on the computer device, so you need to keep in touch with them. While your employees are supposed to perform only work tasks, they could be wasting valuable company time surfing social media sites or leaking sensitive company information. You need a way to protect your company from these costly activities.
@@ -37,3 +34,9 @@ Installation:
 2. Install 'boss.exe' in server computer device and Run.
 
 Enjoy your day... Thank you.
+
+
+
+
+Extra for me:
+During the company's business at the time of business, this precious way of protecting your company, such as employee surfing on social media sites or leaking sensitive company information, can waste their company's precious time.
