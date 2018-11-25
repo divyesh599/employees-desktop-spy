@@ -5,7 +5,7 @@ Overview:
 
 Your business has employees working out on the computer device, so you need to keep in touch with them. While your employees are supposed to perform only work tasks, they could be wasting valuable company time surfing social media sites or leaking sensitive company information. You need a way to protect your company from these costly activities.
 
-The solution is Desktop Spy employee monitoring software for each computer device. This advanced program is installed onto the employee computer device to log activities such as live screenshots and more. The employee monitoring software then sends the information to your private viewing computer that you can access online from anywhere.
+The solution is Desktop Spy employee monitoring software for each computer device. This advanced program is installed onto the employee computer device to log activities such as live screenshots and more. The employee monitoring software then share the information to your private viewing computer that you can access on network sharing folder.
 
 So improve your bottom line and protect your company using Desktop Spy project. When you use Desktop Spy software you will be able to view desktop activities such as:
 
