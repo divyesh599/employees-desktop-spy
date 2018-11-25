@@ -14,7 +14,7 @@ Features:
 
 > Instant chatting module for you with each employees
 
-Knowledge gained on this Modules:
+Learned Modules:
 * sockets
 * os
 * win32net
