@@ -7,25 +7,25 @@ The solution is Desktop Spy employee monitoring software for each computer devic
 
 So improve your bottom line and protect your company using Desktop Spy project. When you use Desktop Spy software you will be able to view desktop activities such as:
 
-**Features:
-  > Take live screenshots
-  > Instant chatting module for you with each employees
+Features:
+  > -Take live screenshots
+  > -Instant chatting module for you with each employees
 
-**Important note:
+*Important note:
   -- Your computer devices needs to connect direct or indirect with each employees using Ethernet cable, WiFi-hotspot or router device.
 
 Language Used: Python
 IDE: PyCharm
 GUI toolkit: tkinter
 
-**Knowledge gained on this Modules- sockets, os, win32net, win32netcon, pyautogui, _thread, tkinter and more detailed in other python modules.
+Knowledge gained on this Modules- sockets, os, win32net, win32netcon, pyautogui, _thread, tkinter and more detailed in other python modules.
 
-**Used Important topics in this project: Socket Theory, Windows Network API, Threading, OS dependent functionality.
--------------------------------------------------------------------------------------------------
+> Used Important topics in this project: Socket Theory, Windows Network API, Threading, OS dependent functionality.
 
 Installation:
+--------------------------
 
-**IMP Notes at time of Installation:
+IMP Notes at time of Installation:
 - Please update 'server_id.txt' file (with your server IPv4 address) before battle with sockets.
 - Turn Off password protected sharing, Turn On public folder sharing in Network and Sharing Center settings
 
