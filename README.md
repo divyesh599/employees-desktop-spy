@@ -34,7 +34,7 @@ Basics:
 > GUI toolkit - tkinter
 
 IMP note:
-Your computer devices needs to connect direct or indirect with each employees using Ethernet cable, WiFi-hotspot or router device.
+Your computer devices needs to connect direct or indirect with each employees devices using Ethernet cable, WiFi-hotspot or router device.
 
 Installation:
 --------------------------
