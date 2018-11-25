@@ -47,10 +47,4 @@ IMP Notes at time of Installation:
 
 2. Install 'boss.exe' in server computer device and Run.
 
-Enjoy your day... Thank you.
-
-
-
-
-Extra for me:
-During the company's business at the time of business, this precious way of protecting your company, such as employee surfing on social media sites or leaking sensitive company information, can waste their company's precious time.
+Enjoy your day... Thank you. @divyesh599
