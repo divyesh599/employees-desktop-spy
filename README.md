@@ -43,8 +43,8 @@ IMP Notes at time of Installation:
 * Please update 'server_id.txt' file (with your server IPv4 address) before battle with sockets.
 * Turn Off password protected sharing, Turn On public folder sharing in Network and Sharing Center settings
 
-1. Install 'employee.exe' in client computer device. and update 'server_id.txt' with server IP address like '192.168.0.1'
+1. Install 'client_setup_v01.exe' in client computer device. and update 'server_id.txt' with server IP address like '192.168.0.1'(SERVER PC IP ADDRESS).
 
-2. Install 'boss.exe' in server computer device and Run.
+2. Install 'server_setup_v01.exe' in server computer device and Run.
 
 Enjoy your day... Thank you. @divyesh599
