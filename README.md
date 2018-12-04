@@ -17,6 +17,7 @@ Features:
 Learned Modules:
 * sockets
 * os
+* winshell
 * win32net
 * win32netcon
 * pyautogui
