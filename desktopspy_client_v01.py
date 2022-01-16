@@ -1,6 +1,6 @@
 # Must need:: 'client-chat.ico icon' image in same folder updated 'server_id.txt'.
 
-import socket  # socket
+import socket  # socket 
 import os  # os.path dir operation
 import win32net  # IMP::windows network sharing properties
 import win32netcon  # IMP::windows network sharing properties
