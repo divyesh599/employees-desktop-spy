@@ -1,7 +1,7 @@
 # Must need:: 'spy.ico' icon image in same folder.
 
 import os  # os.path dir operation
-import socket  # socket
+import socket  # socket 
 import _thread  # threading
 import tkinter  # GUI properties
 from tkinter import *  # GUI properties
